@@ -14,7 +14,7 @@ If you're new to the software development industry, consider checking out my boo
 
 ## Exploring Software Extensibility
 
-With two chapters from _Practices of the Python Pro_ and one chapter each from _Object Design Style Guide_ and _The Design of Web APIs_, _Exploring Software Extensibility_ is a great entrypoint into the ideas that make software live a long life. Software is rarely complete, so building it to last by being open to future requirements and change is a must.
+With two chapters from _Practices of the Python Pro_ and one chapter each from _Object Design Style Guide_ and _The Design of Web APIs_, [_Exploring Software Extensibility_](https://www.manning.com/books/exploring-software-extensibility) is a great entrypoint into the ideas that make software live a long life. Software is rarely complete, so building it to last by being open to future requirements and change is a must.
 
 <a href="https://www.manning.com/books/exploring-software-extensibility">
     <img src="https://raw.githubusercontent.com/daneah/daneah/master/exploring-software-extensibility.png" width="250" alt="Exploring Software Extensibility, a Manning resource with chapter selections by Dane Hillard">
