@@ -8,6 +8,10 @@ I'm a software engineer and web developer interested in education, biotechnology
 
 The life of a maintainer can be hard. Beyond writing working code, you have to triage issues, review pull requests, and create releases regularly. Don't let the logistics of package management get in your way. I'm currently writing [_Publishing Python Packages_](https://pypackages.com), a book about creating and streamlining a repeatable process for authoring and maintaining Python packages. Whether you're looking to create your first published Python package or trying to reduce the maintenance burden of the packages you already work on, _Publishing Python Packages_ has something for you.
 
+<a href="https://pypackages.com">
+    <img src="https://raw.githubusercontent.com/daneah/daneah/master/publishing-python-packages.jpg" width="250" alt="Publishing Python Packages, a Manning book by Dane Hillard">
+</a>
+
 ## Practices of the Python Pro
 
 If you're new to the software development industry, consider checking out my book, [_Practices of the Python Pro_](https://thepythonpro.com). It provides broad introductory coverage of software design, maintenance, and testing. You might also want to check out [daneah/practices-of-the-python-pro](https://github.com/daneah/practices-of-the-python-pro) for the accompanying code samples.
