@@ -4,9 +4,9 @@
 
 I'm a software engineer and web developer interested in education, biotechnology, and open source.
 
-## Publishing Python Packages
+## Publishing Python Packages: Test, share, and automate your projects
 
-The life of a maintainer can be hard. Beyond writing working code, you have to triage issues, review pull requests, and create releases regularly. Don't let the logistics of package management get in your way. I'm currently writing [_Publishing Python Packages_](https://pypackages.com), a book about creating and streamlining a repeatable process for authoring and maintaining Python packages. Whether you're looking to create your first published Python package or trying to reduce the maintenance burden of the packages you already work on, _Publishing Python Packages_ has something for you. Check out [daneah/publishing-python-packages](https://github.com/daneah/publishing-python-packages) for the accompanying code samples.
+The life of a maintainer can be hard. Beyond writing working code, you have to triage issues, review pull requests, and create releases regularly. Don't let the logistics of package management get in your way. I'm currently writing [_Publishing Python Packages: Test, share, and automate your projects_](https://pypackages.com), a book about creating and streamlining a repeatable process for authoring and maintaining Python packages. Whether you're looking to create your first published Python package or trying to reduce the maintenance burden of the packages you already work on, _Publishing Python Packages: Test, share, and automate your projects_ has something for you. Check out [daneah/publishing-python-packages](https://github.com/daneah/publishing-python-packages) for the accompanying code samples.
 
 <a href="https://pypackages.com">
     <img src="https://raw.githubusercontent.com/daneah/daneah/master/publishing-python-packages.jpg" width="250" alt="Publishing Python Packages, a Manning book by Dane Hillard">
