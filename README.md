@@ -2,7 +2,7 @@
 
 <p>
     <a href="https://github.com/daneah"><img src="https://img.shields.io/github/followers/daneah?label=Follow&style=social" alt="GitHub follow"></a>
-    <a href="https://twitter.com/easyaspython"><img src="https://img.shields.io/twitter/follow/easyaspython?label=Follow&style=social" alt="Twitter follow"></a>
+    <a href="https://bsky.app/profile/dane.dev"><img src="https://img.shields.io/bluesky/followers/dane.dev" alt="Bluesky follow"></a>
     <a href="https://fosstodon.org/@daneah" rel="me"><img src="https://img.shields.io/mastodon/follow/109537634852641114?domain=https%3A%2F%2Ffosstodon.org&style=social" alt="Mastodon follow"></a>
 </p>
 
